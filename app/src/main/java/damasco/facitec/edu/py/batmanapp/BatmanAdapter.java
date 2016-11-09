@@ -13,7 +13,7 @@ import com.squareup.picasso.Picasso;
 import java.util.List;
 
 /**
- * Created by LUIS on 09/11/2016.
+ * Created by JORGE on 09/11/2016.
  */
 public class BatmanAdapter extends BaseAdapter {
     private List<Movie> batmen;

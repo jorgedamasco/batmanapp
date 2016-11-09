@@ -1,7 +1,7 @@
 package damasco.facitec.edu.py.batmanapp;
 
 /**
- * Created by LUIS on 09/11/2016.
+ * Created by JORGE on 09/11/2016.
  */
 public class Movie {
 

@@ -3,7 +3,7 @@ package damasco.facitec.edu.py.batmanapp;
 import java.util.List;
 
 /**
- * Created by LUIS on 09/11/2016.
+ * Created by JORGE on 09/11/2016.
  */
 public class Result {
     List<Movie> Search;
